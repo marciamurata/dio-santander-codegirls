@@ -1,22 +1,4 @@
 # Repositório Bootcamp Dio e Santander Code Girls
 
-##PROCESSO SELETIVO:
-
-###FASE 1:
-Inscrições e teste de conhecimentos gerais: 23/05/2022 à 30/06/2022;
-Fase seleção das participantes: 30/06/2022 à 01/07/2022;
-Divulgação das 10.000 para realizar o Bootcamp: 04/07/2022;
-
-###FASE 2:
-Fase de realização do Bootcamp e teste de lógica: 04/07/2022 à 24/07/2022;
-Fase seleção para etapa de entrevistas: 22/07/2022 à 24/07/2022;
-Divulgação das 200 pré selecionadas para etapa de entrevistas: 25/07/2022;
-
-###FASE 3:
-Entrevistas com o RH: 25/07/2022 à 05/08/2022;
-Avaliação das finalistas: 08/08/2022 à 09/08/2022;
-Divulgação das 20 aprovadas: 10/08/2022;
-Aceite das 20 aprovadas no Becas Santander: 10/08/2022 à 16/08/2022;
-Processo de contratação: 10/08/2022 à 29/08/2022;
-Data estimada para início: 01/09/2022;
-Formação Santander Code Girls: 3 meses da data de contratação.
+- Resumo do programa
+- Edital
